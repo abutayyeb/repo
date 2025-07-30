@@ -8,7 +8,7 @@ Thank you for all the support.
 
 ---
 
-# Reposi3
+# abutayyeb repo
 
 A Cydia repository template. This template contains sample on how you can easily make depiction pages without replicating your html pages. The pages are styled using [Bootstrap](http://getbootstrap.com/) which is really easy to use. You can see how it looks like by visiting [this sample repo](https://supermamon.github.io/Reposi3/) on your desktop or mobile phone.
 
@@ -94,7 +94,7 @@ Rename the duplicate with the same name as your package name.
 There are 2 files inside the folder - `info.xml` and `changelog.xml`.
 Update the 2 files with information regading your package.
 The tags are pretty much self-explanatory.
-Contact [@reposi3](https://twitter.com/reposi3) for questions.
+
 
 `info.xml`.
 ```xml
@@ -152,7 +152,7 @@ Depiction: https://username.github.io/repo/depictions/?p=[idhere]
 Replace `[idhere]` with your actual package name.
 
 ```text
-Depiction: https://username.github.io/repo/depictions/?p=com.supermamon.oldpackage
+Depiction: 
 ```
 
 #### 3. Rebuilding the `Packages` file
